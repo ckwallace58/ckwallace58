@@ -12,4 +12,4 @@ I'm really excited to be documenting my journey with you -- cheers!
 
 Feel free to connected with me via [My Linkedin!](https://www.linkedin.com/in/chad-wallace/)
 
-- Chad 
+-Chad 
