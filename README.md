@@ -12,6 +12,9 @@ I'm really excited to be documenting my journey with you -- cheers!
 
 **Feel free to connected with me via [My Linkedin](https://www.linkedin.com/in/chad-wallace/), or view my projects below:**
 ***[Analyzing Baby Names - Posggresql](https://github.com/ckwallace58/SQL-Projects-Notebook/tree/master/Analyzing-Baby-Names)***
+
 ***[Analyzing the Golden Age of Video Games](https://github.com/ckwallace58/SQL-Projects-Notebook/tree/master/Golden-Age-Of-Video-Games)***
+
 ***[My Stratascratch Notebook](https://github.com/ckwallace58/SQL-Projects-Notebook/tree/master/Stratascratch%20Problems)***
+
 -Chad 
